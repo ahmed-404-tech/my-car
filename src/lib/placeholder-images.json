@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "home-hero-estimate",
+      "description": "A close-up of a car's speedometer and dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1615153633779-5c932c7f4cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYXIlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzY2OTk2MDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car dashboard"
+    },
+    {
+      "id": "home-hero-buy-sell",
+      "description": "A person handing over car keys to another person.",
+      "imageUrl": "https://images.unsplash.com/photo-1562003596-a5827707367d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXIlMjBrZXlzfGVufDB8fHx8MTc2NzAyMjkxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car keys"
+    },
+    {
+      "id": "home-hero-trader",
+      "description": "A screen showing financial charts and graphs related to the car market.",
+      "imageUrl": "https://images.unsplash.com/photo-1762279389020-eeeb69c25813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYXJrZXQlMjBjaGFydHxlbnwwfHx8fDE3NjcwNTEyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "market chart"
+    },
+    {
+      "id": "car-1",
+      "description": "A white Toyota Land Cruiser VXR.",
+      "imageUrl": "https://images.unsplash.com/photo-1660825551139-81fd757803ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aGl0ZSUyMHN1dnxlbnwwfHx8fDE3NjcwMTExMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white suv"
+    },
+    {
+      "id": "car-2",
+      "description": "A black BMW 530i.",
+      "imageUrl": "https://images.unsplash.com/photo-1763789381177-cd8a04aaa2ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxibGFjayUyMHNlZGFufGVufDB8fHx8MTc2NzAyNjY5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black sedan"
+    },
+    {
+      "id": "car-3",
+      "description": "A silver Kia Sportage.",
+      "imageUrl": "https://images.unsplash.com/photo-1701389899298-8b722e389a79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXIlMjBjcm9zc292ZXJ8ZW58MHx8fHwxNzY3MDUxMjk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver crossover"
+    },
+    {
+      "id": "car-4",
+      "description": "A red Toyota Camry.",
+      "imageUrl": "https://images.unsplash.com/photo-1704786529856-7987a2c3fcbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWQlMjBzZWRhbnxlbnwwfHx8fDE3NjcwNTEyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red sedan"
+    },
+    {
+      "id": "car-5",
+      "description": "A blue BMW X6.",
+      "imageUrl": "https://images.unsplash.com/photo-1765891771424-7168b298491a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibHVlJTIwc3V2fGVufDB8fHx8MTc2NzA0NDU5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue suv"
+    },
+    {
+      "id": "car-6",
+      "description": "A grey Hyundai Elantra.",
+      "imageUrl": "https://images.unsplash.com/photo-1682408138531-63cc72917428?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmV5JTIwc2VkYW58ZW58MHx8fHwxNzY3MDMyOTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grey sedan"
+    },
+    {
+      "id": "car-7",
+      "description": "A generic car interior shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1629280878139-038999084e23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjYXIlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjcwMjE4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car interior"
+    },
+    {
+      "id": "car-8",
+      "description": "A generic car engine shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1606577924006-27d39b132ae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYXIlMjBlbmdpbmV8ZW58MHx8fHwxNzY3MDI3MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car engine"
+    },
+    {
+      "id": "car-9",
+      "description": "A generic car wheel shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1594693941619-7ceae1e1b212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXIlMjB3aGVlbHxlbnwwfHx8fDE3NjY5NjI3MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car wheel"
+    },
+    {
+      "id": "car-10",
+      "description": "A generic car exterior shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1629908661655-0efb7e09c589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXIlMjBleHRlcmlvcnxlbnwwfHx8fDE3NjcwNTEyOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car exterior"
+    },
+    {
+      "id": "car-11",
+      "description": "A generic car side profile shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1617624085810-3df2165bd11b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FyJTIwc2lkZXxlbnwwfHx8fDE3NjY5MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car side"
+    }
+  ]
 }
